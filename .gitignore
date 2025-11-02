@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+router.env
+
+# Database or local data
+db/
+*.db
+
+# Other unnecessary files
+*.log
